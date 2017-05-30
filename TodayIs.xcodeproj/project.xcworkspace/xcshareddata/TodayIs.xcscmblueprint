@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35569201D7C1D8300992CEEC7169EA1A3D467530",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35569201D7C1D8300992CEEC7169EA1A3D467530" : 9223372036854775807,
+    "4D36443DBD53EC358AEC44639FBEF9CE853C54DF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "94DA14F9-6A28-4ADA-B724-E37AD53F370B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35569201D7C1D8300992CEEC7169EA1A3D467530" : "todayis\/",
+    "4D36443DBD53EC358AEC44639FBEF9CE853C54DF" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TodayIs",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TodayIs.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JonathanYCho\/todayis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35569201D7C1D8300992CEEC7169EA1A3D467530"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/colbehr\/DojoAssignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D36443DBD53EC358AEC44639FBEF9CE853C54DF"
+    }
+  ]
+}
